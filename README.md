@@ -1,1 +1,2 @@
-# running-autotests-for-different-interface-languages
+# Homework for the course automation of selenium and python
+В этом уроке я написал фикстуру в conftest.py для запуска автотестов в которых можно выбирать язык и браузер (chrome или firefox) для теста. И автотест с проверкой наличия кнопки на сайте.
